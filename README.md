@@ -3742,3 +3742,4 @@ _Add the group of your city/country here (send **PR**)_
 - [The Go Skill Tree](https://labex.io/skilltrees/go) - A structured learning path that combines both free and premium resources.
 
 **[⬆ back to top](#contents)**
+- [go_api](https://github.com/maheshbhatiya73/go_api) - A Go Authentication API.
